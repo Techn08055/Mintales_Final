@@ -1,0 +1,38 @@
+.main {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    flex-direction:column; 
+    flex:1;
+}
+
+.title {
+	font-size: 50px;
+}
+
+.color {
+	color: #35e8c5;
+	text-decoration: none;
+}
+.title_box{
+	margin-bottom: 10px;
+	height:100px;
+	resize: none;
+}
+.box{
+	margin-bottom: 10px;
+	height:50rem;
+	resize: none;
+}
+.image {
+	background: #34495e;
+	border: 1px solid #34495e;
+	max-width:512px;
+    max-height:512px;
+	width: auto;
+	height: auto;
+	min-width: 512px;
+	min-height: 512px;
+  }
+  
